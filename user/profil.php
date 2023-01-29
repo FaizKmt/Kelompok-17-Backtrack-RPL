@@ -34,12 +34,6 @@ require 'template/header.php';
             <li class="nav-item">
                 <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-selected="true">Profil</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" id="tab-keranjang" data-toggle="pill" href="#keranjang" role="tab" aria-selected="false">Keranjang</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" id="tab-transaksi" data-toggle="pill" href="#transaksi" role="tab" aria-selected="false">Transaksi</a>
-            </li>
         </ul>
     </div>
     <div class="col-md-12 ">
