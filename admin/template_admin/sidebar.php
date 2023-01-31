@@ -4,7 +4,7 @@
     </div>
     <div class="wrap-content">
         <div class="head my-5 text-center">
-            <h4 class="text-secondary">kupanan.com</h4>
+            <h4 class="text-secondary">DekTos(Derek Torang Sorong)</h4>
         </div>
         <ul class="list text-left">
             <h5 class="ml-3 mb-4">Halaman</h5>

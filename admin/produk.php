@@ -28,7 +28,7 @@ require 'template_admin/header.php';
 
     <div class="pesan"></div>
     <div class="judul my-3 mx-5 text-uppercase d-flex justify-content-between">
-        <h5>Produk</h5>
+        <h5>Daftar Derek</h5>
         <a href="<?= url ?>admin/tambahProduk.php" class="btn btn-sm btn-light mr-4">Tambah Derek</a>
     </div>
     <ul class="list-group text-dark">
